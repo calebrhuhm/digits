@@ -11,3 +11,31 @@
     { "name": "Boogie Board", "quantity": 2, "owner": "admin@foo.com", "condition": "excellent" }
   ]
 }
+{
+  "defaultContacts": [
+    {
+      "firstName": "Philip",
+      "lastName": "Johnson",
+      "address": "123 Aloha St, Honolulu, HI",
+      "image": "/images/philip.jpg",
+      "description": "Professor of Computer Science at the University of Hawaii.",
+      "owner": "john@foo.com"
+    },
+    {
+      "firstName": "Henri",
+      "lastName": "Casanova",
+      "address": "456 Aloha Ave, Honolulu, HI",
+      "image": "/images/henri.jpg",
+      "description": "Researcher in High-Performance Computing.",
+      "owner": "john@foo.com"
+    },
+    {
+      "firstName": "Kim",
+      "lastName": "Binsted",
+      "address": "789 Aloha Rd, Honolulu, HI",
+      "image": "/images/kim.jpg",
+      "description": "Professor of Information and Computer Sciences.",
+      "owner": "admin@foo.com"
+    }
+  ]
+}
